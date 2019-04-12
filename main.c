@@ -21,6 +21,9 @@ void main(){
 }
 
 
+sub3() { 
+ printf("기말 화이팅!\n");
+}
 
 sub2() {
 
